@@ -1,5 +1,10 @@
 # Stack_Overflow_QA_Assistant
 
+- Designed an item-based recommendation web application to recommend questions on StackOverflow to users with expertise
+
+- Built model with Mahout and Hadoop to realize semantic recognition and auto tag-adding for questions
+- Visualized Q&A relation of users using IBM System G graph database
+
 
 The whole package contains 3 folders.
 
